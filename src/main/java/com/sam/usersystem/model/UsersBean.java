@@ -15,7 +15,7 @@ public class UsersBean {
 	private Byte[]	pwd;
 	private String	userName;
 	
-	
+	// test master branch
 	@Override
 	public String toString() {
 		return "UsersBean [no=" + no + ", userID=" + userID + ", userName=" + userName + "]";
